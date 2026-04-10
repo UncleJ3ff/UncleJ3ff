@@ -32,10 +32,22 @@
 - Set up `SessionStart` hook to surface latest updates on session open
 - Activated `/loop 24h` daily monitoring agent
 
+### Clarifications Gathered (Same Session)
+- **Location:** Federal Way, Renton, Des Moines, Tacoma (South King/Pierce County, WA)
+- **Loan strategy:** VA second-tier entitlement — hoping to use VA benefit again
+- **House hack:** Yes — owner-occupy one unit of the triplex/quadruplex
+- **AFH pain point:** Finding/keeping residents (2/6 occupied) — actively marketing
+- **Investment goal:** House hack to reduce housing costs while building rental income
+
+### Key Insight Uncovered
+VA loans allow simultaneous second VA loan via "second-tier entitlement." Since the AFH was VA-financed and they'll owner-occupy one unit of the new property, VA is likely the best loan type — potentially $0 down.
+
 ### Open Items
-- Fill in city/region, price range, and cap rate target in `real-estate-config.md`
-- Decide: owner-occupy one unit (FHA eligible) or pure investment (DSCR/conventional)?
-- Decide: self-manage or hire property manager?
+- [ ] Pull Certificate of Eligibility (COE) to check remaining VA entitlement
+- [ ] Determine max purchase price budget
+- [ ] Set listing alerts for Tacoma, Federal Way, Renton, Des Moines
+- [ ] Underwrite $558K Tacoma triplex listing
+- [ ] Continue AFH marketing — need more residents before taking on more debt
 
 ---
 

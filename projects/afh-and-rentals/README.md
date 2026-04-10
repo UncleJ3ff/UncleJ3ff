@@ -33,28 +33,46 @@ Building a real estate investment portfolio starting with an Adult Family Home (
 - **Status:** Searching
 
 ### Search Criteria
-See [`real-estate-config.md`](./real-estate-config.md) for city, price range, and cap rate targets.
+- **Target cities:** Federal Way, Renton, Des Moines, Tacoma (South King / Pierce County, WA)
+- **Strategy:** House hack — owner-occupy one unit, rent remaining 2-3 units
+- **Min cap rate:** 5.5%+
+- **Loan:** VA second-tier entitlement (see financing section)
 
-### Financing Options
-> **Note:** VA loans are for primary residences only. Since your VA loan is already used on the AFH, the next purchase will require a different loan type.
+See [`real-estate-config.md`](./real-estate-config.md) for full config.
+
+### Financing Strategy: VA Loan (Second Use)
+> **Key insight:** VA loans CAN be used again even with an existing VA loan. You can own two VA-financed properties simultaneously via "second-tier entitlement" — as long as you owner-occupy the new property.
 
 | Loan Type | Notes |
 |-----------|-------|
+| **VA (2nd use) — BEST OPTION** | Potentially $0 down. Must owner-occupy one unit. Requires COE check for remaining entitlement. |
+| FHA (2-4 units) | 3.5% down, owner-occupy required, 75% of rental income counts toward qualification |
+| DSCR Loan | No owner-occupancy required, qualifies on rental income — good if VA falls short |
 | Conventional Investment | 20-25% down, standard investment property rates |
-| FHA (2-4 units) | 3.5% down if you occupy one unit — owner-occupied multi-family |
-| DSCR Loan | Debt Service Coverage Ratio loan — qualifies based on rental income, not personal income |
-| Portfolio Loan | Local bank/credit union, flexible terms |
+
+### 2026 VA Loan Limits for Multi-Family (WA)
+| Property | Normal County | High-Cost County |
+|----------|--------------|-----------------|
+| Triplex | $1,289,050 | $1,933,600 |
+| Fourplex | $1,602,250 | $2,403,375 |
+
+> King County = high-cost. Pierce County = check current limits. Limits matter when you have **partial/remaining entitlement** from the active AFH loan.
+
+### Critical Next Step: Pull Your COE
+Get your Certificate of Eligibility to see remaining entitlement. A VA lender can calculate exact down payment needed (if any) for the second purchase.
 
 ---
 
 ## Key Decisions & Open Questions
 
-- [ ] Will you owner-occupy one unit of the tri/quad? (FHA-eligible if yes)
-- [ ] Target city/region? (fill in `real-estate-config.md`)
-- [ ] Budget / max purchase price?
-- [ ] Minimum cap rate threshold?
+- [x] Will you owner-occupy one unit? **YES** — house hack strategy
+- [x] Target city/region? **Federal Way, Renton, Des Moines, Tacoma**
+- [x] Loan type? **VA second-tier entitlement** (confirm with COE pull)
+- [ ] Pull Certificate of Eligibility (COE) — check remaining VA entitlement
+- [ ] Max purchase price? (fill in `real-estate-config.md`)
 - [ ] Timeline for acquisition?
-- [ ] Will you self-manage or hire a property manager?
+- [ ] AFH occupancy plan — currently 2/6, actively marketing
+- [ ] Will you self-manage the rental units or hire a PM?
 
 ---
 

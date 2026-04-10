@@ -10,11 +10,11 @@ Fill in the fields below before activating the agent.
 | Field | Value |
 |-------|-------|
 | Property Type | Triplex (3-unit) or Quadruplex (4-unit) |
-| City / Region | **[FILL IN — e.g., Seattle WA, King County, Tacoma WA]** |
+| City / Region | Federal Way, Renton, Des Moines, Tacoma — South King/Pierce County, WA |
 | Max Purchase Price | **[FILL IN — e.g., $800,000]** |
-| Min Cap Rate | **[FILL IN — e.g., 6%]** |
-| Owner-Occupied? | **[FILL IN — Yes (FHA eligible) / No (DSCR/conventional)]** |
-| Preferred Neighborhoods | **[FILL IN — optional, e.g., Beacon Hill, Rainier Valley]** |
+| Min Cap Rate | 5.5% or higher |
+| Owner-Occupied? | Yes — house hack (live in one unit) |
+| Preferred Neighborhoods | Federal Way, Renton, Des Moines, Tacoma |
 
 ---
 
@@ -22,9 +22,9 @@ Fill in the fields below before activating the agent.
 
 | Field | Value |
 |-------|-------|
-| Preferred Loan Type | **[FILL IN — DSCR / Conventional / FHA / Other]** |
-| Max Down Payment | **[FILL IN — e.g., 25%]** |
-| Target Rate (approx) | **[FILL IN — e.g., under 7.5%]** |
+| Preferred Loan Type | VA Loan (second-tier entitlement) — owner-occupying one unit |
+| Max Down Payment | As low as possible — need to check remaining VA entitlement via COE |
+| Target Rate (approx) | Under 7.5% |
 
 ---
 

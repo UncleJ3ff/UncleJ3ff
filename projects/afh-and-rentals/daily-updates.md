@@ -7,6 +7,52 @@ Newest entries appear at the top.
 
 <!-- Agent entries will be prepended below this line -->
 
+## 2026-04-10 — Strategy Clarity + Local Listings
+
+### Your Situation (Updated)
+| Detail | Info |
+|--------|------|
+| Location | Federal Way, Renton, Des Moines, Tacoma (South King/Pierce County, WA) |
+| Strategy | House hack — owner-occupy one unit, rent others |
+| Loan Target | VA second-tier entitlement (existing AFH VA loan stays) |
+| AFH Occupancy | 2/6 — actively marketing |
+
+---
+
+### VA Loan Strategy — Key Facts
+- **You can use VA again** even with an active VA loan on the AFH
+- Eligible for 2-4 unit properties with $0 down *if you owner-occupy one unit*
+- With partial/remaining entitlement, you may need a small down payment — depends on COE
+- **2026 VA Loan Limits (WA):**
+  - Triplex: $1,289,050 (normal) / $1,933,600 (high-cost like King County)
+  - Fourplex: $1,602,250 (normal) / $2,403,375 (high-cost)
+- **Action required:** Pull your Certificate of Eligibility (COE) to calculate exact remaining entitlement and whether any down payment is needed
+
+---
+
+### Local Market Snapshot — South King / Pierce County
+| Area | Multi-Family Inventory | Notes |
+|------|----------------------|-------|
+| **Tacoma** | 22+ active listings (Zillow), median $733K | Best inventory; 5.8%–6.2% cap rates found |
+| **Federal Way** | Very limited (1 on Zillow) | Low inventory — watch closely |
+| **Renton** | Some listings — check Redfin/Homes77 | 6.2% cap rate seen on one listing |
+| **Des Moines** | Limited — check regularly | Between Federal Way & Renton |
+
+### Notable Listings Found (April 10, 2026)
+1. **Tacoma Triplex — $558,000** | 3 units × 2BR/1BA | Coin laundry, parking | Estate sale
+2. **Tacoma NE Browns Point Triplex** | 5.8% cap rate | Renovated — LVP floors, SS appliances, in-unit W/D | 2 × 4BR/2BA + 1 × 5BR/2BA units — strong cash flow
+3. **Renton multi-family** | 6.2% cap rate | Strong in-place income (size TBC — may be 6 units)
+
+> Check current listings at: Redfin, Zillow, [soundmultifamily.com](https://www.soundmultifamily.com), [homes77.com](https://www.homes77.com/multi-family/)
+
+### Action Items
+- [ ] Pull COE — contact a VA lender (Veterans United, NewDay USA, or local WA lender)
+- [ ] Set up Redfin/Zillow alerts for 3-4 unit properties in Tacoma, Federal Way, Renton, Des Moines
+- [ ] Underwrite the $558K Tacoma triplex — run numbers at current VA rates (~6.5–7%)
+- [ ] Fill in max purchase price in `real-estate-config.md`
+
+---
+
 ## 2026-04-10 — Market Pulse Update
 
 > **Config status:** City/region and price range not yet filled in. Specific deal listings unavailable until `real-estate-config.md` is completed. General market data below applies nationally.
